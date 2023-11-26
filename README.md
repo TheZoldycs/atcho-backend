@@ -10,11 +10,8 @@ This project serves as the backbone for the Atcho app, handling core functionali
 
 - **Python**: The primary programming language for the project.
 - **Django 4.2.7**: A high-level Python web framework for rapid development and clean, pragmatic design.
-- **GraphQL API**: A powerful query language for APIs, providing a more efficient, powerful, and flexible alternative to REST.
-- **RabbitMQ via Pika**: A message broker that facilitates communication between different parts of the application.
-- **Celery with Multithreading**: A distributed task queue that allows for the processing of asynchronous tasks in a scalable and efficient way.
+- **Rest API**: DJANGO Restfull api.
 - **PostgreSQL**: A robust relational database management system used to store and retrieve data.
-- **Redis Broker**: A high-performance in-memory data structure store used as a message broker.
 
 ## Getting Started
 
@@ -25,8 +22,9 @@ Make sure you have the following installed:
 - [Python](https://www.python.org/)
 - [Django 4.2.7](https://www.djangoproject.com/)
 - [PostgreSQL](https://www.postgresql.org/)
-- [RabbitMQ](https://www.rabbitmq.com/)
-- [Redis](https://redis.io/)
+- 
+![Project Logo](./images/project_logo.png)
+
 
 ### Installation
 
