@@ -1,6 +1,8 @@
 # Atcho backend
 
 Atcho-backend is the backend core for the Atcho moobile app, providing essential functionality and services to support the application.
+![Project Logo](./atcho_backend.png)
+
 
 ## Description
 
@@ -23,7 +25,6 @@ Make sure you have the following installed:
 - [Django 4.2.7](https://www.djangoproject.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - 
-![Project Logo](./atcho_backend.png)
 
 
 ### Installation
