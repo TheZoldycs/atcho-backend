@@ -1,4 +1,4 @@
-# Z-app-core
+# Atcho backend
 
 Atcho-backend is the backend core for the Atcho moobile app, providing essential functionality and services to support the application.
 
