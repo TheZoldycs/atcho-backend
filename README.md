@@ -23,7 +23,7 @@ Make sure you have the following installed:
 - [Django 4.2.7](https://www.djangoproject.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - 
-![Project Logo](./images/project_logo.png)
+![Project Logo](atcho_backend.png)
 
 
 ### Installation
